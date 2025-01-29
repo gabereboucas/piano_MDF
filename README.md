@@ -14,7 +14,7 @@ Este som saindo na placa soldada
 ## Esquema de Conexão
 
 - Conecte cada botão a um pino digital do Arduino (pinos 0 a 13 no exemplo).
-- Conecte o terminal positivo do buzzer ao pino 10 do Arduino e o terminal negativo ao GND.
+- Conecte o terminal positivo do alto-falante ao pino 10 do Arduino e o terminal negativo ao GND.
 
 ## Código
 
