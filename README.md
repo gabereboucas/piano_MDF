@@ -1,6 +1,6 @@
-# Projeto de Piano com Botões e Piezo  🎹🎶
+# Projeto de Piano com Botões e Alto-falante  🎹🎶
 
-Este é um projeto simples que utiliza botões e um buzzer (piezo) para criar um piano básico. Cada botão está associado a uma nota musical, e quando pressionado, o buzzer emite o som correspondente.
+Este é um projeto simples que utiliza botões e um Alto-falante para criar um piano básico. Cada botão está associado a uma nota musical, e quando pressionado, o buzzer emite o som correspondente.
 Este som saindo na placa soldada
 
 ## Componentes Necessários
